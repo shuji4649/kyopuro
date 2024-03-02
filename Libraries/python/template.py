@@ -187,3 +187,4 @@ def mergecount(A):
                 i2 += 1
                 cnt += n//2 - i1
     return cnt
+
